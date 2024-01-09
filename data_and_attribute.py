@@ -16,8 +16,7 @@ class Data():
     
     def __init__(self):
         #Proses ekstrak data
-        #self.dataSourceRaw   = pd.read_csv('https://storage.googleapis.com/dqlab-dataset/retail_raw_reduced_data_quality.csv')
-        self.dataSourceRaw   = pd.read_csv('retail_raw_reduced.csv')
+        self.dataSourceRaw   = pd.read_csv('https://storage.googleapis.com/dqlab-dataset/retail_raw_reduced_data_quality.csv')
         self.dataGeo         = self.geoMaps()
         self.dataSourceClean = self.__TransformAndCleansing()
         
