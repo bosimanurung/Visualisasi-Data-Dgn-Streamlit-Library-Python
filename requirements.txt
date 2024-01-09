@@ -2,8 +2,7 @@ os
 numpy
 pandas
 streamlit
-matplotlib.pyplot
-matplotlib.colors
+matplotlib
 PIL
 geopandas
 data_and_attribute
