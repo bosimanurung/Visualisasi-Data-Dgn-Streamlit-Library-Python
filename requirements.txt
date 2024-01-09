@@ -1,0 +1,12 @@
+os
+numpy
+pandas
+streamlit
+matplotlib.pyplot
+matplotlib.colors
+PIL
+geopandas
+data_and_attribute
+aggregation
+visualization
+datetime
