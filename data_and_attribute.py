@@ -8,8 +8,6 @@ import geopandas as gpd
 
 """
 Created on Sat Mar 5 23:49:54 2022
-
-@author: Bachtiyar M. Arif
 """
 
 class Data():
