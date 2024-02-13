@@ -5,8 +5,6 @@ import pandas as pd
 
 """
 Created on Sun Mar 6 23:56:45 2022
-
-@author: Bachtiyar M. Arif
 """
 
 class AggregationPerMonth():
