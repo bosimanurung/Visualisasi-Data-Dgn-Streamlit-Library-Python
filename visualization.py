@@ -6,8 +6,6 @@ import matplotlib.colors as pltc
 
 """
 Created on Wed Mar  9 15:47:09 2022
-
-@author:  Bachtiyar M. Arif
 """
 
 class Visualization():
