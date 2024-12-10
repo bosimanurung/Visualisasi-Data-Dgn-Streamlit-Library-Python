@@ -4,3 +4,4 @@ pandasql
 streamlit
 altair
 matplotlib
+geopandas
