@@ -2,7 +2,5 @@ numpy
 pandas
 pandasql
 streamlit
-PIL
 altair
 matplotlib
-math
